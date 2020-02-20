@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/order-change-component/static/css/main.2b05c65e.chunk.css",
+    "main.js": "/order-change-component/static/js/main.be715c9c.chunk.js",
+    "main.js.map": "/order-change-component/static/js/main.be715c9c.chunk.js.map",
+    "runtime-main.js": "/order-change-component/static/js/runtime-main.e4bc9700.js",
+    "runtime-main.js.map": "/order-change-component/static/js/runtime-main.e4bc9700.js.map",
+    "static/css/2.b90ce945.chunk.css": "/order-change-component/static/css/2.b90ce945.chunk.css",
+    "static/js/2.f69c1f04.chunk.js": "/order-change-component/static/js/2.f69c1f04.chunk.js",
+    "static/js/2.f69c1f04.chunk.js.map": "/order-change-component/static/js/2.f69c1f04.chunk.js.map",
+    "index.html": "/order-change-component/index.html",
+    "precache-manifest.78cd404975c94db1a0389143936e00ac.js": "/order-change-component/precache-manifest.78cd404975c94db1a0389143936e00ac.js",
+    "service-worker.js": "/order-change-component/service-worker.js",
+    "static/css/2.b90ce945.chunk.css.map": "/order-change-component/static/css/2.b90ce945.chunk.css.map",
+    "static/css/main.2b05c65e.chunk.css.map": "/order-change-component/static/css/main.2b05c65e.chunk.css.map",
+    "static/js/2.f69c1f04.chunk.js.LICENSE.txt": "/order-change-component/static/js/2.f69c1f04.chunk.js.LICENSE.txt",
+    "static/media/calendar-icon.svg": "/order-change-component/static/media/calendar-icon.93d02be0.svg",
+    "static/media/loading-icon.svg": "/order-change-component/static/media/loading-icon.a0ad76c9.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e4bc9700.js",
+    "static/css/2.b90ce945.chunk.css",
+    "static/js/2.f69c1f04.chunk.js",
+    "static/css/main.2b05c65e.chunk.css",
+    "static/js/main.be715c9c.chunk.js"
+  ]
+}
