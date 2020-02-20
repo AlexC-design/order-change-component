@@ -1,0 +1,21 @@
+.edit-order-button {
+  font-weight: bold;
+  font-size: 15px;
+  color: white;
+  padding: 9px 25px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  border: solid 2px #23aca5;
+  background-color: #23aca5;
+}
+
+.edit-order-button:hover {
+  color: #0d423f;
+  background-color: #d2eeec;
+  cursor: pointer;
+}
+
+.edit-order-button:focus {
+  outline: none;
+}
+/*# sourceMappingURL=edit-order-button.css.map */

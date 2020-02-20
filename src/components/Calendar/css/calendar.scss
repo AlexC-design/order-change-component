@@ -1,0 +1,15 @@
+.calendar {
+  position: absolute;
+  right: 50px;
+  bottom: 50px;
+
+  img {
+    transform: scale(0.7);
+  }
+}
+
+.react-datepicker-wrapper {
+  position: absolute;
+  right: 100px;
+  bottom: 63px;
+}
